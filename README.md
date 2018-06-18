@@ -3,6 +3,7 @@
 To build, run:
 
 $ npm install
+
 $ npm run build
 
 ...and to run the API, run:
